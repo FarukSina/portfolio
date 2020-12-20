@@ -5,19 +5,21 @@
   "author": "Brittany Chiang <brittany.chiang@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/v4"
+    "url": "https://github.com/FarukSina/portfolio"
   },
   "keywords": [
     "gatsby"
   ],
   "license": "MIT",
+  "homepage":"https://github.com/FarukSina/portfolio",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
     "start": "npm run develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "deploy":"gh-pages -d build"
   },
   "husky": {
     "hooks": {
