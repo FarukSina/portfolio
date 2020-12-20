@@ -6,7 +6,7 @@ external: 'https://jinahautos.ca/'
 tech:
   - PostgresQL
   - React
-  - Authentication for Users
+  - Authentication
   - Express
   - Node
 showInProjects: true
