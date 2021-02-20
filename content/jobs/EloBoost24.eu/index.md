@@ -3,7 +3,7 @@ date: '2014-03-04'
 title: 'Junior Developer'
 company: 'Eloboost24.eu'
 location: 'Istanbul, Turkey'
-range: 'March 2016 - January 2016'
+range: 'March 2014 - January 2016'
 url: 'https://eloboost24.eu/'
 ---
 
