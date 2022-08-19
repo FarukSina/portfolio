@@ -1,0 +1,43 @@
+Id,MerchantProductNo,Name,Description,Price,MSRP,PurchasePrice,Stock,StockDE,StockNL,ShippingCost,ShippingTime,Brand,Url,ParentMerchantProductNo,GrandParent MerchantProductNumber,ImageUrl,Category,VendorProductNo,Color,Size,EAN,Type
+25331,00120,T-shirt met lange mouw BASIC,"
+			<br></br>
+			Basic t-shirt met lange mouwen. Het model valt aansluitend en heeft een petrol kleur.
+
+			<br><br>Materiaal:</br>
+			92% katoen 8% elastaan.
+		",,,,0,5,0,395,"Op werkdagen voor 17:00 besteld, de volgende dag in huis",MyBrand,http://www.mijnshop.nl/shirt-petrol,,,http://feeds.channelengine.net/shirt.jpg,Vrouwen > Tops > Basics,,,,,grandparent
+25330,001201,T-shirt met lange mouw BASIC petrol,"
+			<br></br>
+			Basic t-shirt met lange mouwen. Het model valt aansluitend en heeft een petrol kleur.
+
+			<br><br>Materiaal:</br>
+			92% katoen 8% elastaan.
+		",75,2499,1000,0,0,5,395,"Op werkdagen voor 17:00 besteld, de volgende dag in huis",MyBrand,http://www.mijnshop.nl/shirt-petrol,,00120,http://feeds.channelengine.net/shirt.jpg,Vrouwen > Tops > Basics,120675,petrol,,[Table],parent
+25322,001201-XL,T-shirt met lange mouw BASIC petrol: XL,"
+			<br></br>
+			Basic t-shirt met lange mouwen. Het model valt aansluitend en heeft een petrol kleur.
+
+			<br><br>Materiaal:</br>
+			92% katoen 8% elastaan.
+		",95,2799,1000,2,2,2,395,Dit product is helaas uitverkocht,MyBrand,http://www.mijnshop.nl/shirt-petrol-xl,001201,,http://feeds.channelengine.net/shirt.jpg,Vrouwen > Tops > Basics,120675,petrol,XL,[Table],child
+25321,001201-S,T-shirt met lange mouw BASIC petrol: S,"
+			<br></br>
+			Basic t-shirt met lange mouwen. Het model valt aansluitend en heeft een petrol kleur.
+
+			<br><br>Materiaal:</br>
+			92% katoen 8% elastaan.
+		",75,2499,1000,3,3,3,395,Dit product is helaas uitverkocht,MyBrand,http://www.mijnshop.nl/shirt-petrol-s,001201,,http://feeds.channelengine.net/shirt.jpg,Vrouwen > Tops > Basics,120675,petrol,S,[Table],child
+25320,001201-M,T-shirt met lange mouw BASIC petrol: M,"
+			<br></br>
+			Basic t-shirt met lange mouwen. Het model valt aansluitend en heeft een petrol kleur.
+
+			<br><br>Materiaal:</br>
+			92% katoen 8% elastaan.
+		",75,2499,1200,5,5,5,395,Dit product is helaas uitverkocht,MyBrand,http://www.mijnshop.nl/shirt-petrol-m,001201,,http://feeds.channelengine.net/shirt.jpg,Vrouwen > Tops > Basics,120675,petrol,M,[Table],child
+25319,001201-L,T-shirt met lange mouw BASIC petrol: L,"
+			<br></br>
+			Basic t-shirt met lange mouwen. Het model valt aansluitend en heeft een petrol kleur.
+
+			<br><br>Materiaal:</br>
+			92% katoen 8% elastaan.
+		",85,2599,1200,10,10,10,395,"Op werkdagen voor 17:00 besteld, de volgende dag in huis",MyBrand,http://www.mijnshop.nl/shirt-petrol-l,001201,,http://feeds.channelengine.net/shirt.jpg,Vrouwen > Tops > Basics,120675,petrol,L,[Table],child
