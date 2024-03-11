@@ -201,18 +201,6 @@ const Nav = ({ isHome }) => {
                   </a>
                 </div>
               </CSSTransition>
-
-              <CSSTransition classNames={fadeDownClass} timeout={timeout}>
-                <div style={{ transitionDelay: `${isHome ? navLinks.length * 100 : 0}ms` }}>
-                  <a
-                    className="resume-button"
-                    href="/Product.csv"
-                    target="_blank"
-                    rel="noopener noreferrer">
-                    Resume
-                  </a>
-                </div>
-              </CSSTransition>
               </>
             )}
           </TransitionGroup>
